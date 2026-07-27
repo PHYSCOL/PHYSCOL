@@ -18,6 +18,12 @@ I build clean web experiences, practical Python tools, and AI-powered applicatio
 - Developing database-backed web applications
 - Exploring new technologies through practical projects
 
+## Featured Project
+
+### [STEM Code Spark](https://github.com/PHYSCOL/stem-code-spark)
+
+An AI-assisted coding workspace built with React, TypeScript, Gemini, and Monaco Editor. It helps users generate, review, copy, and download code examples from a focused interface.
+
 ## Open to Opportunities
 
 I am open to freelance projects and professional opportunities involving web development, Python, automation, and AI-integrated applications.
@@ -38,6 +44,10 @@ Web geliştirme, Python ve yapay zekâ tabanlı projeler üzerine çalışan ba�
 - Otomasyon ve kullanışlı dijital araçlar
 
 üzerinde çalışıyor, bilgilerimi gerçek projeler geliştirerek ilerletmeye devam ediyorum.
+
+### Öne Çıkan Proje
+
+[STEM Code Spark](https://github.com/PHYSCOL/stem-code-spark), Gemini ve Monaco Editor kullanan yapay zekâ destekli bir kod çalışma alanıdır.
 
 **Freelance projelere ve uygun yazılım geliştirme fırsatlarına açığım.**
 
