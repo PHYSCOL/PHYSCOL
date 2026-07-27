@@ -18,6 +18,10 @@ I build clean web experiences, practical Python tools, and AI-powered applicatio
 - Developing database-backed web applications
 - Exploring new technologies through practical projects
 
+## Open to Opportunities
+
+I am open to freelance projects and professional opportunities involving web development, Python, automation, and AI-integrated applications.
+
 ---
 
 ## Türkçe
@@ -34,6 +38,8 @@ Web geliştirme, Python ve yapay zekâ tabanlı projeler üzerine çalışan ba�
 - Otomasyon ve kullanışlı dijital araçlar
 
 üzerinde çalışıyor, bilgilerimi gerçek projeler geliştirerek ilerletmeye devam ediyorum.
+
+**Freelance projelere ve uygun yazılım geliştirme fırsatlarına açığım.**
 
 ## Contact / İletişim
 
