@@ -18,7 +18,11 @@ I build clean web experiences, practical Python tools, and AI-powered applicatio
 - Developing database-backed web applications
 - Exploring new technologies through practical projects
 
-## Featured Project
+## Featured Projects
+
+### [AOTLoom](https://github.com/PHYSCOL/aotloom)
+
+An interactive proposal studio for freelance web projects. It turns a client brief into a visual scope map, transparent delivery plan, and client-ready proposal — entirely in the browser.
 
 ### [STEM Code Spark](https://github.com/PHYSCOL/stem-code-spark)
 
@@ -45,7 +49,9 @@ Web geliştirme, Python ve yapay zekâ tabanlı projeler üzerine çalışan ba�
 
 üzerinde çalışıyor, bilgilerimi gerçek projeler geliştirerek ilerletmeye devam ediyorum.
 
-### Öne Çıkan Proje
+### Öne Çıkan Projeler
+
+[AOTLoom](https://github.com/PHYSCOL/aotloom), müşteriyle yapılan ilk görüşmeyi görsel kapsam haritasına, teslim planına ve paylaşılabilir proje teklifine dönüştüren tarayıcı tabanlı bir araçtır.
 
 [STEM Code Spark](https://github.com/PHYSCOL/stem-code-spark), Gemini ve Monaco Editor kullanan yapay zekâ destekli bir kod çalışma alanıdır.
 
